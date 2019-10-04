@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">ijAjIluvy79N2gTqJ0ATYZSU910Miufm4BfdLlPZ</string>
+    <string name="back4app_client_key">IG7ZMmO0otybHNn34Bfe6VkJi5EGMX0lS6fycC8U</string>
+
+    <string name="app_name">Uber For Android</string>
+    <string name="title_activity_your_loaction">Your Location</string>
+    <string name="title_activity_viewer_rider_location">View Rider Location</string>
+
+</resources>
